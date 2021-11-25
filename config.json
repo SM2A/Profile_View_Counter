@@ -3,6 +3,31 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "SM2A"
+    "SM2A",
+    "Profile_View_Counter",
+    "Introduction_to_Computing_Systems_and_Programming_Course_Projects",
+    "Engineering_Probability_and_Statistics_Course_Project",
+    "Digital_Logic_Design_Course_Projects",
+    "Digital_Logic_Design_Lab_Course_Projects",
+    "Computer_Architecture_Course_Projects",
+    "Advanced_Programming_Course_Projects",
+    "University_Projects",
+    "Hello-World",
+    "CourseDescription",
+    "UTRIP_Web",
+    "UTRIP_Smart",
+    "UTRIP",
+    "JsonBuilder",
+    "FieldRunners",
+    "GoodReads",
+    "Semester_Course_Suggestion",
+    "UT_Bank",
+    "Othello",
+    "Tic_Tac_Toe",
+    "Store_Backend",
+    "Store_Frontend",
+    "E_Learn_Activity_Notifier",
+    "sm2a.github.io",
+    "ACM_Summer_Camp"
   ]
 }
