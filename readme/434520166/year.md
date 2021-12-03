@@ -1,7 +1,7 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [Tic_Tac_Toe](https://github.com/SM2A/Tic_Tac_Toe)
-![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/large/year.png)
+### :octocat: [Digikala_BlackFriday_1400_Bot](https://github.com/SM2A/Digikala_BlackFriday_1400_Bot)
+![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/434520166/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/12/3 8:38 AM UTC</i></small>
+<small><i>Last updated on 2021/12/3 8:39 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412191989/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/434520166/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/week.md)
 ```readme
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412191989/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/434520166/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/week.md)
 ```
 ### Header
-# Tic_Tac_Toe [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/year.md)
+# Digikala_BlackFriday_1400_Bot [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/434520166/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/year.md)
 ```readme
-# Tic_Tac_Toe [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/year.md)
+# Digikala_BlackFriday_1400_Bot [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/434520166/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

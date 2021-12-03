@@ -435,9 +435,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/388052733/small/year.png" height="20"> 2
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/434520166/year.md">
+				Digikala_BlackFriday_1400_Bot
+			</a>
+		</td>
+		<td>
+			2021/11/30 8:39 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/434520166/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2021/12/3 6:29 AM UTC</i></small>
+<small><i>Last updated on 2021/12/3 8:39 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
