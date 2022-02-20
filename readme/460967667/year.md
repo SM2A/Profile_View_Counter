@@ -1,7 +1,7 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [UT_Bank](https://github.com/SM2A/UT_Bank)
-![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412199246/large/year.png)
+### :octocat: [Computer_Aided_Design_Course_Projects](https://github.com/SM2A/Computer_Aided_Design_Course_Projects)
+![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/460967667/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2021/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/20 7:28 PM UTC</i></small>
+<small><i>Last updated on 2022/2/20 7:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412199246/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412199246/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/460967667/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/460967667/week.md)
 ```readme
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412199246/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412199246/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/460967667/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/460967667/week.md)
 ```
 ### Header
-# UT_Bank [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412199246/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412199246/year.md)
+# Computer_Aided_Design_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/460967667/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/460967667/year.md)
 ```readme
-# UT_Bank [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412199246/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412199246/year.md)
+# Computer_Aided_Design_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/460967667/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/460967667/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

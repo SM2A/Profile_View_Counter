@@ -659,9 +659,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/459333884/small/year.png" height="20"> 25
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/460967667/year.md">
+				Computer_Aided_Design_Course_Projects
+			</a>
+		</td>
+		<td>
+			2022/2/17 7:31 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/460967667/small/year.png" height="20"> 3
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/20 12:55 AM UTC</i></small>
+<small><i>Last updated on 2022/2/20 7:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
