@@ -675,9 +675,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/460967667/small/year.png" height="20"> 22
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/461245948/year.md">
+				E_Learn_Adobe_Connect_Linux
+			</a>
+		</td>
+		<td>
+			2022/2/21 11:10 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/461245948/small/year.png" height="20"> 31
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/24 12:55 AM UTC</i></small>
+<small><i>Last updated on 2022/2/24 11:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
