@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/427362212/year.md">
+				Profile_View_Counter
+			</a>
+		</td>
+		<td>
+			2022/3/10 12:52 AM UTC
+		</td>
+		<td>
+			53
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/427362212/small/year.png" height="20"> 363
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412187822/year.md">
 				Introduction_to_Computing_Systems_and_Programming_Course_Projects
 			</a>
@@ -49,6 +65,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412187822/small/year.png" height="20"> 33
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/413804331/year.md">
+				Engineering_Probability_and_Statistics_Course_Project
+			</a>
+		</td>
+		<td>
+			2022/3/10 12:52 AM UTC
+		</td>
+		<td>
+			18
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/413804331/small/year.png" height="20"> 69
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414360951/year.md">
+				Digital_Logic_Design_Course_Projects
+			</a>
+		</td>
+		<td>
+			2022/3/10 12:52 AM UTC
+		</td>
+		<td>
+			19
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414360951/small/year.png" height="20"> 74
 		</td>
 	</tr>
 	<tr>
@@ -549,22 +597,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/433485806/year.md">
-				PLC_P2
-			</a>
-		</td>
-		<td>
-			2022/3/10 12:57 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/433485806/small/year.png" height="20"> 48
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/439019724/year.md">
 				PLC_P3
 			</a>
@@ -645,7 +677,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/12 12:51 AM UTC</i></small>
+<small><i>Last updated on 2022/3/12 11:12 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
