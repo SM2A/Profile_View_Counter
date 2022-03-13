@@ -117,6 +117,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414517214/year.md">
+				Computer_Architecture_Course_Projects
+			</a>
+		</td>
+		<td>
+			2022/3/11 12:00 AM UTC
+		</td>
+		<td>
+			109
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414517214/small/year.png" height="20"> 715
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412364586/year.md">
 				Advanced_Programming_Course_Projects
 			</a>
@@ -677,7 +693,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/13 12:53 AM UTC</i></small>
+<small><i>Last updated on 2022/3/13 5:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
