@@ -1,7 +1,7 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [wireguard-android](https://github.com/SM2A/wireguard-android)
-![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/453880097/large/year.png)
+### :octocat: [OpenGL_With_FreeGLUT](https://github.com/SM2A/OpenGL_With_FreeGLUT)
+![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/499918300/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>13</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/6/11 5:47 PM UTC</i></small>
+<small><i>Last updated on 2022/6/11 5:50 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/453880097/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/453880097/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/499918300/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/499918300/week.md)
 ```readme
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/453880097/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/453880097/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/499918300/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/499918300/week.md)
 ```
 ### Header
-# wireguard-android [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/453880097/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/453880097/year.md)
+# OpenGL_With_FreeGLUT [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/499918300/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/499918300/year.md)
 ```readme
-# wireguard-android [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/453880097/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/453880097/year.md)
+# OpenGL_With_FreeGLUT [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/499918300/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/499918300/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

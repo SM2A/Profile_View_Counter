@@ -691,9 +691,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/461245948/small/year.png" height="20"> 93
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/499918300/year.md">
+				OpenGL_With_FreeGLUT
+			</a>
+		</td>
+		<td>
+			2022/6/8 5:50 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/499918300/small/year.png" height="20"> 13
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/6/11 1:05 AM UTC</i></small>
+<small><i>Last updated on 2022/6/11 5:50 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
