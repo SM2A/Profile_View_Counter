@@ -707,9 +707,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/499918300/small/year.png" height="20"> 74
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/510476442/year.md">
+				Computer_Graphics
+			</a>
+		</td>
+		<td>
+			2022/7/9 12:00 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/510476442/small/year.png" height="20"> 42
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/12 1:20 AM UTC</i></small>
+<small><i>Last updated on 2022/7/12 3:02 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

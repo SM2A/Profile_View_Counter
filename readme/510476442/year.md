@@ -1,7 +1,7 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [Digikala_BlackFriday_1400_Bot](https://github.com/SM2A/Digikala_BlackFriday_1400_Bot)
-![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/434520166/large/year.png)
+### :octocat: [Computer_Graphics](https://github.com/SM2A/Computer_Graphics)
+![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/510476442/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>42</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2021/12/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/12 2:59 PM UTC</i></small>
+<small><i>Last updated on 2022/7/12 3:02 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/434520166/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/510476442/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/510476442/week.md)
 ```readme
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/434520166/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/510476442/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/510476442/week.md)
 ```
 ### Header
-# Digikala_BlackFriday_1400_Bot [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/434520166/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/year.md)
+# Computer_Graphics [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/510476442/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/510476442/year.md)
 ```readme
-# Digikala_BlackFriday_1400_Bot [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/434520166/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/434520166/year.md)
+# Computer_Graphics [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/510476442/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/510476442/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
