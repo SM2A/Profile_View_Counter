@@ -1,7 +1,7 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [FieldRunners](https://github.com/SM2A/FieldRunners)
-![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/257704630/large/year.png)
+### :octocat: [Network_Simulation](https://github.com/SM2A/Network_Simulation)
+![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/516085242/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>10</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>36</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2021/12/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/22 6:03 PM UTC</i></small>
+<small><i>Last updated on 2022/7/22 6:09 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/257704630/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/257704630/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/516085242/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/516085242/week.md)
 ```readme
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/257704630/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/257704630/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/516085242/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/516085242/week.md)
 ```
 ### Header
-# FieldRunners [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/257704630/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/257704630/year.md)
+# Network_Simulation [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/516085242/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/516085242/year.md)
 ```readme
-# FieldRunners [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/257704630/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/257704630/year.md)
+# Network_Simulation [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/516085242/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/516085242/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
