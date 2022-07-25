@@ -739,9 +739,89 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/516085242/small/year.png" height="20"> 20
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/505545947/year.md">
+				TCP_Router
+			</a>
+		</td>
+		<td>
+			2022/7/22 12:00 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/505545947/small/year.png" height="20"> 76
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/496994389/year.md">
+				Network_Routing
+			</a>
+		</td>
+		<td>
+			2022/7/22 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/496994389/small/year.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/471379216/year.md">
+				FTP_Server_Client
+			</a>
+		</td>
+		<td>
+			2022/7/22 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/471379216/small/year.png" height="20"> 16
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/467626634/year.md">
+				Computer_Networks_Course_Projects
+			</a>
+		</td>
+		<td>
+			2022/7/22 12:00 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/467626634/small/year.png" height="20"> 29
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/468667148/year.md">
+				Computer_Architecture_Lab_Course_Projects
+			</a>
+		</td>
+		<td>
+			2022/7/22 12:00 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/468667148/small/year.png" height="20"> 48
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/25 1:18 AM UTC</i></small>
+<small><i>Last updated on 2022/7/25 6:20 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
