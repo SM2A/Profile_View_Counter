@@ -47,6 +47,11 @@
     "E_Learn_Adobe_Connect_Linux",
     "OpenGL_With_FreeGLUT",
     "Computer_Graphics",
-    "Network_Simulation"
+    "Network_Simulation",
+    "TCP_Router",
+    "Network_Routing",
+    "FTP_Server_Client",
+    "Computer_Networks_Course_Projects",
+    "Computer_Architecture_Lab_Course_Projects"
   ]
 }
