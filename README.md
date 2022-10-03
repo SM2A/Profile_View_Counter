@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:55 AM UTC
+			2022/10/1 1:45 AM UTC
 		</td>
 		<td>
 			62
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:55 AM UTC
+			2022/10/1 1:45 AM UTC
 		</td>
 		<td>
 			156
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:55 AM UTC
+			2022/10/1 1:45 AM UTC
 		</td>
 		<td>
 			28
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:56 AM UTC
+			2022/10/1 1:46 AM UTC
 		</td>
 		<td>
 			27
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:56 AM UTC
+			2022/10/1 1:46 AM UTC
 		</td>
 		<td>
 			55
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:56 AM UTC
+			2022/10/1 1:46 AM UTC
 		</td>
 		<td>
 			95
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 12:00 AM UTC
+			2022/10/1 1:46 AM UTC
 		</td>
 		<td>
 			226
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:56 AM UTC
+			2022/10/1 1:46 AM UTC
 		</td>
 		<td>
 			50
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:56 AM UTC
+			2022/10/1 1:47 AM UTC
 		</td>
 		<td>
 			340
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:56 AM UTC
+			2022/10/1 1:47 AM UTC
 		</td>
 		<td>
 			37
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:47 AM UTC
 		</td>
 		<td>
 			42
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:47 AM UTC
 		</td>
 		<td>
 			17
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:47 AM UTC
 		</td>
 		<td>
 			9
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:48 AM UTC
 		</td>
 		<td>
 			18
@@ -250,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:48 AM UTC
 		</td>
 		<td>
 			19
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:48 AM UTC
 		</td>
 		<td>
 			24
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:57 AM UTC
+			2022/10/1 1:48 AM UTC
 		</td>
 		<td>
 			17
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:58 AM UTC
+			2022/10/1 1:49 AM UTC
 		</td>
 		<td>
 			14
@@ -314,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:58 AM UTC
+			2022/10/1 1:49 AM UTC
 		</td>
 		<td>
 			17
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:58 AM UTC
+			2022/10/1 1:49 AM UTC
 		</td>
 		<td>
 			12
@@ -346,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:58 AM UTC
+			2022/10/1 1:49 AM UTC
 		</td>
 		<td>
 			15
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:58 AM UTC
+			2022/10/1 1:49 AM UTC
 		</td>
 		<td>
 			17
@@ -378,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:58 AM UTC
+			2022/10/1 1:50 AM UTC
 		</td>
 		<td>
 			10
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:50 AM UTC
 		</td>
 		<td>
 			13
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:50 AM UTC
 		</td>
 		<td>
 			22
@@ -426,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:50 AM UTC
 		</td>
 		<td>
 			5
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:50 AM UTC
 		</td>
 		<td>
 			35
@@ -458,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:51 AM UTC
 		</td>
 		<td>
 			1
@@ -474,7 +474,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:51 AM UTC
 		</td>
 		<td>
 			7
@@ -490,7 +490,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 1:59 AM UTC
+			2022/10/1 1:51 AM UTC
 		</td>
 		<td>
 			5
@@ -506,7 +506,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:00 AM UTC
+			2022/10/1 1:51 AM UTC
 		</td>
 		<td>
 			61
@@ -522,7 +522,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:00 AM UTC
+			2022/10/1 1:51 AM UTC
 		</td>
 		<td>
 			205
@@ -538,7 +538,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:00 AM UTC
+			2022/10/1 1:52 AM UTC
 		</td>
 		<td>
 			66
@@ -554,7 +554,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:00 AM UTC
+			2022/10/1 1:52 AM UTC
 		</td>
 		<td>
 			3
@@ -570,7 +570,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:00 AM UTC
+			2022/10/1 1:52 AM UTC
 		</td>
 		<td>
 			59
@@ -586,7 +586,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:00 AM UTC
+			2022/10/1 1:52 AM UTC
 		</td>
 		<td>
 			31
@@ -602,7 +602,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:52 AM UTC
 		</td>
 		<td>
 			20
@@ -618,7 +618,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:53 AM UTC
 		</td>
 		<td>
 			26
@@ -634,7 +634,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:53 AM UTC
 		</td>
 		<td>
 			26
@@ -650,7 +650,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:53 AM UTC
 		</td>
 		<td>
 			107
@@ -666,7 +666,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:53 AM UTC
 		</td>
 		<td>
 			16
@@ -682,7 +682,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:53 AM UTC
 		</td>
 		<td>
 			21
@@ -698,7 +698,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:01 AM UTC
+			2022/10/1 1:54 AM UTC
 		</td>
 		<td>
 			17
@@ -714,7 +714,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:02 AM UTC
+			2022/10/1 1:54 AM UTC
 		</td>
 		<td>
 			34
@@ -730,7 +730,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:02 AM UTC
+			2022/10/1 1:54 AM UTC
 		</td>
 		<td>
 			2
@@ -746,7 +746,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:02 AM UTC
+			2022/10/1 1:54 AM UTC
 		</td>
 		<td>
 			13
@@ -762,7 +762,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:02 AM UTC
+			2022/10/1 1:55 AM UTC
 		</td>
 		<td>
 			12
@@ -778,7 +778,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:02 AM UTC
+			2022/10/1 1:55 AM UTC
 		</td>
 		<td>
 			15
@@ -794,7 +794,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:02 AM UTC
+			2022/10/1 1:55 AM UTC
 		</td>
 		<td>
 			13
@@ -810,7 +810,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/30 2:03 AM UTC
+			2022/10/1 1:55 AM UTC
 		</td>
 		<td>
 			15
@@ -821,7 +821,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/2 1:45 AM UTC</i></small>
+<small><i>Last updated on 2022/10/3 1:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
