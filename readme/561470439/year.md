@@ -1,7 +1,7 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [Network_Routing](https://github.com/SM2A/Network_Routing)
-![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/496994389/large/year.png)
+### :octocat: [Binance_API](https://github.com/SM2A/Binance_API)
+![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -56,10 +56,10 @@
 			<code>2022/8/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>43</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/496994389/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/496994389/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/561470439/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md)
 ```readme
-[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/496994389/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/496994389/week.md)
+[![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/561470439/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md)
 ```
 ### Header
-# Network_Routing [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/496994389/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/496994389/year.md)
+# Binance_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
 ```readme
-# Network_Routing [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/496994389/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/496994389/year.md)
+# Binance_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

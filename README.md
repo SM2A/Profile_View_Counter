@@ -819,9 +819,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/468667148/small/year.png" height="20"> 111
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/561470439/year.md">
+				Binance_API
+			</a>
+		</td>
+		<td>
+			2022/10/31 7:16 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/561470439/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/3 1:20 AM UTC</i></small>
+<small><i>Last updated on 2022/11/3 7:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
