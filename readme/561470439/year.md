@@ -1,6 +1,6 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
 
-### :octocat: [Binance_API](https://github.com/SM2A/Binance_API)
+### :octocat: [Cryptocurrency_API](https://github.com/SM2A/Cryptocurrency_API)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>15</code>
 		</td>
 		<td>
-			<code>92</code>
+			<code>99</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/11/19 1:17 AM UTC</i></small>
+<small><i>Last updated on 2022/11/20 1:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/561470439/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md)
 ```
 ### Header
-# Binance_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
+# Cryptocurrency_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
 ```readme
-# Binance_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
+# Cryptocurrency_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
