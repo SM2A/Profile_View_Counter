@@ -1,5 +1,6 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-
+| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [PLC_P4](https://github.com/SM2A/PLC_P4)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/444491866/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 1:02 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 4:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/444491866/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/week.md)
 ```
 ### Header
-# PLC_P4 [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/444491866/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/year.md)
+# PLC_P4 [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/444491866/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/week.md)
 ```readme
-# PLC_P4 [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/444491866/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/year.md)
+# PLC_P4 [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/444491866/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/444491866/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

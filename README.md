@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/330442903/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/330442903/week.md">
 				SM2A
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			70
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/330442903/small/year.png" height="20"> 167
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/330442903/small/week.png" height="20"> 167
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/427362212/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/427362212/week.md">
 				Profile_View_Counter
 			</a>
 		</td>
@@ -48,12 +48,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			165
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/427362212/small/year.png" height="20"> 693
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/427362212/small/week.png" height="20"> 693
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412187822/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412187822/week.md">
 				Introduction_to_Computing_Systems_and_Programming_Course_Projects
 			</a>
 		</td>
@@ -64,12 +64,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			29
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412187822/small/year.png" height="20"> 49
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412187822/small/week.png" height="20"> 49
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/413804331/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/413804331/week.md">
 				Engineering_Probability_and_Statistics_Course_Project
 			</a>
 		</td>
@@ -80,12 +80,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			43
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/413804331/small/year.png" height="20"> 209
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/413804331/small/week.png" height="20"> 209
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414360951/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414360951/week.md">
 				Digital_Logic_Design_Course_Projects
 			</a>
 		</td>
@@ -96,12 +96,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			72
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414360951/small/year.png" height="20"> 363
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414360951/small/week.png" height="20"> 363
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414366201/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414366201/week.md">
 				Digital_Logic_Design_Lab_Course_Projects
 			</a>
 		</td>
@@ -112,12 +112,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			136
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414366201/small/year.png" height="20"> 638
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414366201/small/week.png" height="20"> 638
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414517214/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/414517214/week.md">
 				Computer_Architecture_Course_Projects
 			</a>
 		</td>
@@ -128,12 +128,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			264
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414517214/small/year.png" height="20"> 1454
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/414517214/small/week.png" height="20"> 1454
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412364586/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412364586/week.md">
 				Advanced_Programming_Course_Projects
 			</a>
 		</td>
@@ -144,12 +144,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			63
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412364586/small/year.png" height="20"> 212
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412364586/small/week.png" height="20"> 212
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412880224/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412880224/week.md">
 				University_Projects
 			</a>
 		</td>
@@ -160,12 +160,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			425
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412880224/small/year.png" height="20"> 804
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412880224/small/week.png" height="20"> 804
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/390043768/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/390043768/week.md">
 				Hello-World
 			</a>
 		</td>
@@ -176,12 +176,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			38
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/390043768/small/year.png" height="20"> 126
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/390043768/small/week.png" height="20"> 126
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/411045327/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/411045327/week.md">
 				CourseDescription
 			</a>
 		</td>
@@ -192,12 +192,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			51
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/411045327/small/year.png" height="20"> 85
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/411045327/small/week.png" height="20"> 85
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/279807024/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/279807024/week.md">
 				UTRIP_Web
 			</a>
 		</td>
@@ -208,12 +208,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			18
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/279807024/small/year.png" height="20"> 60
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/279807024/small/week.png" height="20"> 60
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/271093860/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/271093860/week.md">
 				UTRIP_Smart
 			</a>
 		</td>
@@ -224,12 +224,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/271093860/small/year.png" height="20"> 13
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/271093860/small/week.png" height="20"> 13
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/266310885/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/266310885/week.md">
 				UTRIP
 			</a>
 		</td>
@@ -240,12 +240,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/266310885/small/year.png" height="20"> 62
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/266310885/small/week.png" height="20"> 62
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/262395788/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/262395788/week.md">
 				JsonBuilder
 			</a>
 		</td>
@@ -256,12 +256,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			21
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/262395788/small/year.png" height="20"> 53
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/262395788/small/week.png" height="20"> 53
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/257704630/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/257704630/week.md">
 				FieldRunners
 			</a>
 		</td>
@@ -272,12 +272,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			27
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/257704630/small/year.png" height="20"> 113
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/257704630/small/week.png" height="20"> 113
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412386961/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412386961/week.md">
 				GoodReads
 			</a>
 		</td>
@@ -288,12 +288,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			22
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412386961/small/year.png" height="20"> 97
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412386961/small/week.png" height="20"> 97
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412379909/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412379909/week.md">
 				Semester_Course_Suggestion
 			</a>
 		</td>
@@ -304,12 +304,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412379909/small/year.png" height="20"> 43
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412379909/small/week.png" height="20"> 43
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412199246/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412199246/week.md">
 				UT_Bank
 			</a>
 		</td>
@@ -320,12 +320,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			17
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412199246/small/year.png" height="20"> 38
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412199246/small/week.png" height="20"> 38
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412193903/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412193903/week.md">
 				Othello
 			</a>
 		</td>
@@ -336,12 +336,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412193903/small/year.png" height="20"> 44
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412193903/small/week.png" height="20"> 44
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412191989/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412191989/week.md">
 				Tic_Tac_Toe
 			</a>
 		</td>
@@ -352,12 +352,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			16
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412191989/small/year.png" height="20"> 39
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412191989/small/week.png" height="20"> 39
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/393412215/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/393412215/week.md">
 				Store_Backend
 			</a>
 		</td>
@@ -368,12 +368,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			18
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/393412215/small/year.png" height="20"> 156
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/393412215/small/week.png" height="20"> 156
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/396957307/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/396957307/week.md">
 				Store_Frontend
 			</a>
 		</td>
@@ -384,12 +384,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/396957307/small/year.png" height="20"> 15
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/396957307/small/week.png" height="20"> 15
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/356411039/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/356411039/week.md">
 				E_Learn_Activity_Notifier
 			</a>
 		</td>
@@ -400,12 +400,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/356411039/small/year.png" height="20"> 43
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/356411039/small/week.png" height="20"> 43
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/354935926/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/354935926/week.md">
 				sm2a.github.io
 			</a>
 		</td>
@@ -416,12 +416,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			24
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/354935926/small/year.png" height="20"> 103
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/354935926/small/week.png" height="20"> 103
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/388052733/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/388052733/week.md">
 				ACM_Summer_Camp
 			</a>
 		</td>
@@ -432,12 +432,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/388052733/small/year.png" height="20"> 14
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/388052733/small/week.png" height="20"> 14
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/434520166/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/434520166/week.md">
 				Digikala_BlackFriday_1400_Bot
 			</a>
 		</td>
@@ -448,12 +448,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			35
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/434520166/small/year.png" height="20"> 91
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/434520166/small/week.png" height="20"> 91
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/455224484/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/455224484/week.md">
 				android-testdpc
 			</a>
 		</td>
@@ -464,12 +464,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/455224484/small/year.png" height="20"> 3
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/455224484/small/week.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/453880075/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/453880075/week.md">
 				ics-openvpn
 			</a>
 		</td>
@@ -480,12 +480,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/453880075/small/year.png" height="20"> 27
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/453880075/small/week.png" height="20"> 27
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/453880097/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/453880097/week.md">
 				wireguard-android
 			</a>
 		</td>
@@ -496,12 +496,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/453880097/small/year.png" height="20"> 10
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/453880097/small/week.png" height="20"> 10
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/430050298/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/430050298/week.md">
 				Signals_and_Systems_Course_Projects
 			</a>
 		</td>
@@ -512,12 +512,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			65
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/430050298/small/year.png" height="20"> 195
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/430050298/small/week.png" height="20"> 195
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412184416/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/412184416/week.md">
 				Artificial_Intelligence_Course_Projects
 			</a>
 		</td>
@@ -528,12 +528,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			221
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412184416/small/year.png" height="20"> 1057
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/412184416/small/week.png" height="20"> 1057
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/420412422/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/420412422/week.md">
 				Operating_System_Course_Projects
 			</a>
 		</td>
@@ -544,12 +544,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			98
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/420412422/small/year.png" height="20"> 621
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/420412422/small/week.png" height="20"> 621
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/456796555/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/456796555/week.md">
 				udptunnel
 			</a>
 		</td>
@@ -560,12 +560,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/456796555/small/year.png" height="20"> 4
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/456796555/small/week.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/421735558/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/421735558/week.md">
 				Compiler_and_Programming_Languages_Design_Course_Projects
 			</a>
 		</td>
@@ -576,12 +576,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			59
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/421735558/small/year.png" height="20"> 178
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/421735558/small/week.png" height="20"> 178
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/459215050/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/459215050/week.md">
 				PLC_P1
 			</a>
 		</td>
@@ -592,12 +592,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			33
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/459215050/small/year.png" height="20"> 187
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/459215050/small/week.png" height="20"> 187
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/433485806/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/433485806/week.md">
 				PLC_P2
 			</a>
 		</td>
@@ -608,12 +608,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			21
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/433485806/small/year.png" height="20"> 156
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/433485806/small/week.png" height="20"> 156
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/439019724/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/439019724/week.md">
 				PLC_P3
 			</a>
 		</td>
@@ -624,12 +624,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			26
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/439019724/small/year.png" height="20"> 176
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/439019724/small/week.png" height="20"> 176
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/444491866/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/444491866/week.md">
 				PLC_P4
 			</a>
 		</td>
@@ -640,12 +640,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			26
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/444491866/small/year.png" height="20"> 177
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/444491866/small/week.png" height="20"> 177
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/459333884/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/459333884/week.md">
 				Operating_System_Lab_Course_Projects
 			</a>
 		</td>
@@ -656,12 +656,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			138
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/459333884/small/year.png" height="20"> 715
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/459333884/small/week.png" height="20"> 715
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/460967667/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/460967667/week.md">
 				Computer_Aided_Design_Course_Projects
 			</a>
 		</td>
@@ -672,12 +672,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			21
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/460967667/small/year.png" height="20"> 98
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/460967667/small/week.png" height="20"> 98
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/461245948/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/461245948/week.md">
 				E_Learn_Adobe_Connect_Linux
 			</a>
 		</td>
@@ -688,12 +688,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			24
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/461245948/small/year.png" height="20"> 118
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/461245948/small/week.png" height="20"> 118
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/499918300/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/499918300/week.md">
 				OpenGL_With_FreeGLUT
 			</a>
 		</td>
@@ -704,12 +704,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			17
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/499918300/small/year.png" height="20"> 78
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/499918300/small/week.png" height="20"> 78
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/510476442/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/510476442/week.md">
 				Computer_Graphics
 			</a>
 		</td>
@@ -720,12 +720,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			41
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/510476442/small/year.png" height="20"> 153
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/510476442/small/week.png" height="20"> 153
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/529478692/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/529478692/week.md">
 				Network_Simulation
 			</a>
 		</td>
@@ -736,12 +736,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/529478692/small/year.png" height="20"> 20
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/529478692/small/week.png" height="20"> 20
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/505545947/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/505545947/week.md">
 				TCP_Router
 			</a>
 		</td>
@@ -752,12 +752,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/505545947/small/year.png" height="20"> 109
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/505545947/small/week.png" height="20"> 109
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/496994389/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/496994389/week.md">
 				Network_Routing
 			</a>
 		</td>
@@ -768,12 +768,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			12
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/496994389/small/year.png" height="20"> 67
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/496994389/small/week.png" height="20"> 67
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/471379216/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/471379216/week.md">
 				FTP_Server_Client
 			</a>
 		</td>
@@ -784,12 +784,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			18
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/471379216/small/year.png" height="20"> 69
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/471379216/small/week.png" height="20"> 69
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/467626634/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/467626634/week.md">
 				Computer_Networks_Course_Projects
 			</a>
 		</td>
@@ -800,12 +800,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/467626634/small/year.png" height="20"> 56
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/467626634/small/week.png" height="20"> 56
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/468667148/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/468667148/week.md">
 				Computer_Architecture_Lab_Course_Projects
 			</a>
 		</td>
@@ -816,12 +816,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			33
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/468667148/small/year.png" height="20"> 204
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/468667148/small/week.png" height="20"> 204
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/561470439/year.md">
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/561470439/week.md">
 				Cryptocurrency_API
 			</a>
 		</td>
@@ -832,12 +832,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			20
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/561470439/small/year.png" height="20"> 109
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/561470439/small/week.png" height="20"> 109
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/6 1:03 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 4:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

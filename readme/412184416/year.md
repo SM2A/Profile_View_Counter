@@ -1,5 +1,6 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-
+| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Artificial_Intelligence_Course_Projects](https://github.com/SM2A/Artificial_Intelligence_Course_Projects)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412184416/large/year.png)
 
@@ -23,10 +24,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>33</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 1:01 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 4:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412184416/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/week.md)
 ```
 ### Header
-# Artificial_Intelligence_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412184416/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/year.md)
+# Artificial_Intelligence_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412184416/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/week.md)
 ```readme
-# Artificial_Intelligence_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412184416/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/year.md)
+# Artificial_Intelligence_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412184416/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412184416/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-
+| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [University_Projects](https://github.com/SM2A/University_Projects)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412880224/large/year.png)
 
@@ -23,10 +24,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>12</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 12:58 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 3:57 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412880224/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/week.md)
 ```
 ### Header
-# University_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412880224/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/year.md)
+# University_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412880224/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/week.md)
 ```readme
-# University_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412880224/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/year.md)
+# University_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412880224/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412880224/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-
+| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Digital_Logic_Design_Lab_Course_Projects](https://github.com/SM2A/Digital_Logic_Design_Lab_Course_Projects)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/414366201/large/year.png)
 
@@ -23,10 +24,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>13</code>
 		</td>
 		<td>
-			<code>47</code>
+			<code>48</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 12:57 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 3:55 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/414366201/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/week.md)
 ```
 ### Header
-# Digital_Logic_Design_Lab_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/414366201/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/year.md)
+# Digital_Logic_Design_Lab_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/414366201/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/week.md)
 ```readme
-# Digital_Logic_Design_Lab_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/414366201/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/year.md)
+# Digital_Logic_Design_Lab_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/414366201/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/414366201/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

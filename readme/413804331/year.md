@@ -1,5 +1,6 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-
+| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Engineering_Probability_and_Statistics_Course_Project](https://github.com/SM2A/Engineering_Probability_and_Statistics_Course_Project)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/413804331/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 12:57 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 3:54 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/413804331/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/week.md)
 ```
 ### Header
-# Engineering_Probability_and_Statistics_Course_Project [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/413804331/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/year.md)
+# Engineering_Probability_and_Statistics_Course_Project [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/413804331/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/week.md)
 ```readme
-# Engineering_Probability_and_Statistics_Course_Project [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/413804331/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/year.md)
+# Engineering_Probability_and_Statistics_Course_Project [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/413804331/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/413804331/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
