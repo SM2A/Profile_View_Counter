@@ -1,6 +1,5 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [sm2a.github.io](https://github.com/SM2A/sm2a.github.io)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/354935926/large/year.png)
 
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 4:07 PM UTC</i></small>
+<small><i>Last updated on 2022/12/7 1:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/354935926/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/week.md)
 ```
 ### Header
-# sm2a.github.io [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/354935926/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/week.md)
+# sm2a.github.io [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/354935926/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/year.md)
 ```readme
-# sm2a.github.io [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/354935926/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/week.md)
+# sm2a.github.io [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/354935926/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/354935926/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

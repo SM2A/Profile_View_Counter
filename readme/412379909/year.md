@@ -1,6 +1,5 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [Semester_Course_Suggestion](https://github.com/SM2A/Semester_Course_Suggestion)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412379909/large/year.png)
 
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 4:03 PM UTC</i></small>
+<small><i>Last updated on 2022/12/7 1:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412379909/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/week.md)
 ```
 ### Header
-# Semester_Course_Suggestion [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412379909/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/week.md)
+# Semester_Course_Suggestion [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412379909/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/year.md)
 ```readme
-# Semester_Course_Suggestion [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412379909/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/week.md)
+# Semester_Course_Suggestion [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412379909/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412379909/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

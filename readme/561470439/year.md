@@ -1,6 +1,5 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [Cryptocurrency_API](https://github.com/SM2A/Cryptocurrency_API)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/large/year.png)
 
@@ -24,10 +23,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 4:20 PM UTC</i></small>
+<small><i>Last updated on 2022/12/7 1:09 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/561470439/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md)
 ```
 ### Header
-# Cryptocurrency_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md)
+# Cryptocurrency_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
 ```readme
-# Cryptocurrency_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/week.md)
+# Cryptocurrency_API [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/561470439/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/561470439/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

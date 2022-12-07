@@ -1,6 +1,5 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [Compiler_and_Programming_Languages_Design_Course_Projects](https://github.com/SM2A/Compiler_and_Programming_Languages_Design_Course_Projects)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/421735558/large/year.png)
 
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 4:12 PM UTC</i></small>
+<small><i>Last updated on 2022/12/7 1:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/421735558/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/week.md)
 ```
 ### Header
-# Compiler_and_Programming_Languages_Design_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/421735558/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/week.md)
+# Compiler_and_Programming_Languages_Design_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/421735558/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/year.md)
 ```readme
-# Compiler_and_Programming_Languages_Design_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/421735558/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/week.md)
+# Compiler_and_Programming_Languages_Design_Course_Projects [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/421735558/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/421735558/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

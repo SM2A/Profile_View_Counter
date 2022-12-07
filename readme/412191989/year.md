@@ -1,6 +1,5 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [Tic_Tac_Toe](https://github.com/SM2A/Tic_Tac_Toe)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/large/year.png)
 
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 4:05 PM UTC</i></small>
+<small><i>Last updated on 2022/12/7 1:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/412191989/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/week.md)
 ```
 ### Header
-# Tic_Tac_Toe [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/week.md)
+# Tic_Tac_Toe [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/year.md)
 ```readme
-# Tic_Tac_Toe [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/week.md)
+# Tic_Tac_Toe [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/412191989/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/412191989/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

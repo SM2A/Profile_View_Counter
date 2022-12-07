@@ -1,6 +1,5 @@
 ## [🔙 Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter)
-| [**Week →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/week.md) | [**Month →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/month.md) | [**Year →**](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [FTP_Server_Client](https://github.com/SM2A/FTP_Server_Client)
 ![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/graph/471379216/large/year.png)
 
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 4:19 PM UTC</i></small>
+<small><i>Last updated on 2022/12/7 1:08 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/471379216/badge.svg)](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/week.md)
 ```
 ### Header
-# FTP_Server_Client [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/471379216/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/week.md)
+# FTP_Server_Client [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/471379216/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/year.md)
 ```readme
-# FTP_Server_Client [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/471379216/small/week.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/week.md)
+# FTP_Server_Client [<img alt="Image of Profile_View_Counter" src="https://github.com/SM2A/Profile_View_Counter/blob/master/graph/471379216/small/year.png" height="20">](https://github.com/SM2A/Profile_View_Counter/blob/master/readme/471379216/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
