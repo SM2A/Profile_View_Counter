@@ -835,9 +835,121 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/561470439/small/year.png" height="20"> 293
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/611916254/year.md">
+				Software_Testing
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/611916254/small/year.png" height="20"> 13
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/565927966/year.md">
+				Software_Testing_CA1
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:33 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/565927966/small/year.png" height="20"> 28
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/570192220/year.md">
+				Software_Testing_CA2
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/570192220/small/year.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/573839967/year.md">
+				Software_Testing_CA3
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/573839967/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/579866704/year.md">
+				Software_Testing_CA4
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/579866704/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/582042610/year.md">
+				Software_Testing_CA5
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/582042610/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/588847850/year.md">
+				Software_Testing_CA6
+			</a>
+		</td>
+		<td>
+			2023/3/6 9:34 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/588847850/small/year.png" height="20"> 22
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/3/9 1:12 AM UTC</i></small>
+<small><i>Last updated on 2023/3/9 9:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
