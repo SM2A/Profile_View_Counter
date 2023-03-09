@@ -842,7 +842,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:33 PM UTC
+			2023/3/7 9:33 PM UTC
 		</td>
 		<td>
 			1
@@ -858,7 +858,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:33 PM UTC
+			2023/3/7 9:33 PM UTC
 		</td>
 		<td>
 			2
@@ -874,7 +874,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:33 PM UTC
+			2023/3/7 9:33 PM UTC
 		</td>
 		<td>
 			1
@@ -890,7 +890,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:34 PM UTC
+			2023/3/7 9:34 PM UTC
 		</td>
 		<td>
 			1
@@ -906,7 +906,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:34 PM UTC
+			2023/3/7 9:34 PM UTC
 		</td>
 		<td>
 			1
@@ -922,7 +922,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:34 PM UTC
+			2023/3/7 9:34 PM UTC
 		</td>
 		<td>
 			1
@@ -938,7 +938,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/3/6 9:34 PM UTC
+			2023/3/7 9:34 PM UTC
 		</td>
 		<td>
 			2
@@ -947,9 +947,73 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/588847850/small/year.png" height="20"> 22
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/574150356/year.md">
+				CN_CA1
+			</a>
+		</td>
+		<td>
+			2023/3/6 10:56 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/574150356/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/595276407/year.md">
+				CN_CA2
+			</a>
+		</td>
+		<td>
+			2023/3/6 10:56 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/595276407/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/593543553/year.md">
+				CN_CA3
+			</a>
+		</td>
+		<td>
+			2023/3/6 10:56 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/593543553/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/540345142/year.md">
+				SE_Intro
+			</a>
+		</td>
+		<td>
+			2023/3/6 10:56 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/540345142/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/3/9 9:34 PM UTC</i></small>
+<small><i>Last updated on 2023/3/9 10:56 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
