@@ -1011,9 +1011,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/540345142/small/year.png" height="20"> 89
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/689006066/year.md">
+				CPS_Course_Project
+			</a>
+		</td>
+		<td>
+			2023/9/5 7:32 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/689006066/small/year.png" height="20"> 17
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/689013266/year.md">
+				CPS_CA1
+			</a>
+		</td>
+		<td>
+			2023/9/5 7:32 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/689013266/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/634630409/year.md">
+				CPS_CA2
+			</a>
+		</td>
+		<td>
+			2023/9/5 7:32 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/634630409/small/year.png" height="20"> 26
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/9/8 12:56 AM UTC</i></small>
+<small><i>Last updated on 2023/9/8 7:32 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
