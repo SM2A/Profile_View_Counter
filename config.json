@@ -78,6 +78,8 @@
     "git-books",
     "v2rayNG",
     "paho.mqtt.android",
-    "kotlin-by-example"
+    "kotlin-by-example",
+    "libjpeg-turbo",
+    "droidVNC-NG"
   ]
 }
