@@ -1235,9 +1235,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/799607604/small/year.png" height="20"> 149
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/823715035/year.md">
+				libjpeg-turbo
+			</a>
+		</td>
+		<td>
+			2024/7/1 8:07 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/823715035/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SM2A/Profile_View_Counter/tree/master/readme/823714368/year.md">
+				droidVNC-NG
+			</a>
+		</td>
+		<td>
+			2024/7/1 8:07 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SM2A/Profile_View_Counter/raw/master/graph/823714368/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/7/4 1:04 AM UTC</i></small>
+<small><i>Last updated on 2024/7/4 8:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
