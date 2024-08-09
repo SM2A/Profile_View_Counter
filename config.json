@@ -80,6 +80,8 @@
     "paho.mqtt.android",
     "kotlin-by-example",
     "libjpeg-turbo",
-    "droidVNC-NG"
+    "droidVNC-NG",
+    "Application_Of_Intelligent_Systems_In_Medicine_Course_Project",
+    "Complex_Networks_Course_Project"
   ]
 }
